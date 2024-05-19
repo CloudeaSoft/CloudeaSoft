@@ -1,6 +1,8 @@
-## <div align="center">Here is :herb: **Cloudea** :herb:</div> 
+## <div align="center">Hi! Here is :herb: **Cloudea** :herb:</div> 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudeaSoft&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=CloudeaSoft&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>
+</p>
 
 ### <div align="center">:herb: My Skill</div>
 
@@ -22,3 +24,19 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/asp.net-%23663399.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.Net">
 </p>
+
+<hr>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
+</p>
+
+### <div align="center">📊 Github Stats</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CloudeaSoft&show_icons=true&hide_border=true"  alt="Cloudea's GitHub stats"/>
+</p>
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudeaSoft&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Cloudea's top langs"/> 
+</div>
