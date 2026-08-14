@@ -10,12 +10,8 @@
 ### Skills
 
 💽 Languages:
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-A13C43?style=flat&logo=coffeescript">
-<img alt="Static Badge" src="https://img.shields.io/badge/Go-007D9C?style=flat&logo=go">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-808080?style=flat&logo=python">
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-690183?style=flat&logo=csharp">
 <img alt="Static Badge" src="https://img.shields.io/badge/JS-9B658A?style=flat&logo=javascript">
-
 
 💽 Frameworks:
 <img alt="Static Badge" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
