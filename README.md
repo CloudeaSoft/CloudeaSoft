@@ -2,24 +2,8 @@
 
 ### Profile Stats
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://streak-stats.demolab.com?user=CloudeaSoft&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-        alt="GitHub streak stats"
-      />
-    </td>
-    <td width="50%" align="center">
-      <img
-        width="100%"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=CloudeaSoft&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite"
-        alt="Cloudea's top langs"
-      />
-    </td>
-  </tr>
-</table>
+|<img src="http://github-readme-streak-stats.herokuapp.com?user=CloudeaSoft&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>|<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CloudeaSoft&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" alt="Cloudea's top langs"/> |
+|---|---|
 
 <p align="center">
   <img
