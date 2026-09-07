@@ -5,7 +5,7 @@
 |<img src="http://github-readme-streak-stats.herokuapp.com?user=CloudeaSoft&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  alt="gitHub streak stats"/>|<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CloudeaSoft&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" alt="Cloudea's top langs"/> |
 |---|---|
 
-[![CloudeaSoft's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CloudeaSoft&days=45&theme=tokyo-night&bg_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![CloudeaSoft's github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CloudeaSoft&theme=tokyonight&bg_color=ffffff&text_color=000000&border_color=ffffff&chart_color=7aa2f7&icon_color=bb9af7&animation=draw)](https://github.com/CloudeaSoft)
 
 ### Skills
 
