@@ -19,17 +19,15 @@
       />
     </td>
   </tr>
+</table>
 
-  <tr style="background-color: default;">
-    <td colspan="2" align="center">
-      <img
+<p align="center">
+  <img
         width="100%"
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CloudeaSoft&theme=tokyonight&bg_color=ffffff&text_color=000000&border_color=ffffff&chart_color=7aa2f7&icon_color=bb9af7"
         alt="CloudeaSoft's GitHub activity"
       />
-    </td>
-  </tr>
-</table>
+</p>
 
 ### Skills
 
